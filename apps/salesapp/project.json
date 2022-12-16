@@ -1,0 +1,7 @@
+{
+    "name": "salesapp",
+    "$schema": "../../node_modules/nx/schemas/project-schema.json",
+    "sourceRoot": "apps/salesapp",
+    "projectType": "application",
+    "tags": []
+}
